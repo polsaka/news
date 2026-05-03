@@ -2,11 +2,11 @@
 
 <div style="display:flex; justify-content:center; align-items:center; gap:12px; margin:20px auto;">
 
-<a href="https://www.google.com/" target="_blank">
+<a href="https://short-belink.com/a-001" target="_blank">
   <img src="https://karep.pro/denda/daftar-2.webp" alt="Login 1" style="width:400px; border-radius:10px; display:block;">
 </a>
 
-<a href="https://www.google.com/" target="_blank">
+<a href="https://short-belink.com/a-001" target="_blank">
   <img src="https://karep.pro/denda/daftar-2.webp" alt="Login 2" style="width:400px; border-radius:10px; display:block;">
 </a>
 
